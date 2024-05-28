@@ -78,7 +78,7 @@ export async function bumpNextVersion({
 
 		core.info('creating pull request');
 		await octokit.rest.pulls.create({
-			base: 'master',
+			base: 'develop',
 			head: newBranch,
 			title: finalPrTitle,
 			body: createTempReleaseNotes(finalVersion, prBody),
