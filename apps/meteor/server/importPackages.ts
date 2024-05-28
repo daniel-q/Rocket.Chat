@@ -51,6 +51,7 @@ import '../app/slackbridge/server';
 import '../app/slashcommands-archiveroom/server';
 import '../app/slashcommand-asciiarts/server';
 import '../app/slashcommands-create/server';
+import '../app/slashcommands-test/server';
 import '../app/slashcommands-help/server';
 import '../app/slashcommands-hide/server';
 import '../app/slashcommands-invite/server';
