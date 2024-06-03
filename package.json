@@ -69,6 +69,7 @@
     "typia@~5.3.3": "patch:typia@npm%3A5.3.3#./.yarn/patches/typia-npm-5.3.3-21d3e18463.patch"
   },
   "dependencies": {
+    "global": "^4.4.0",
     "node-gyp": "^9.4.1"
   }
 }
