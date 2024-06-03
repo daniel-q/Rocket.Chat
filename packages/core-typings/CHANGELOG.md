@@ -1,5 +1,20 @@
 # @rocket.chat/core-typings
 
+## 6.9.0-rc.0
+
+### Minor Changes
+
+- ([#31917](https://github.com/RocketChat/Rocket.Chat/pull/31917) by [@rique223](https://github.com/rique223)) Introduced a tab layout to the users page and implemented a tab called "All" that lists all users.
+
+- ([#32298](https://github.com/RocketChat/Rocket.Chat/pull/32298) by [@aleksandernsilva](https://github.com/aleksandernsilva)) Added "Rocket.Chat Cloud Workspace ID" to workspace statistics page
+
+### Patch Changes
+
+- <details><summary>Updated dependencies [ee5cdfc367]:</summary>
+
+  - @rocket.chat/ui-kit@0.34.0-rc.0
+  </details>
+
 ## 6.8.0
 
 ### Minor Changes
